@@ -25,3 +25,18 @@ git commit -m"updating our app to redirect to home if user is signned in"
 git push origin master
 yarn start
 view $home
+echo $home
+code .
+yarn start4
+yarn start
+git status
+git add -A
+git commit-m"added cartIcon and cartDropdown components to our applicatin, also implement cart reducer"
+git push origin master
+git status
+git commit -m"added cartIcon and cartDropdown components to our application, also implement cartReducer"
+git push origin master
+yarn start
+yarn start
+code .
+yarn start
