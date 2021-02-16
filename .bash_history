@@ -40,3 +40,18 @@ yarn start
 yarn start
 code .
 yarn start
+code .
+yarn start
+git add -A
+git commit -m"created cart-item component and connected our cart dropdown with cartItem reducers"
+git push origin master
+yarn start
+yarn add reselect
+git add- A
+git add -A
+git commit -m"updating our aplication with reselect,replaced cart selectors with memorized selectors"
+git push origin master
+yarn start
+pwd -W
+code .
+yarn start
