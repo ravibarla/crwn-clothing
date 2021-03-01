@@ -55,3 +55,11 @@ yarn start
 pwd -W
 code .
 yarn start
+git status
+git add -A
+git commit -m"added addItem and removeItem functionality to checkout item component"
+git commit -m"added addItem and removeItem functionality to checkout item component"
+git push origin master
+yarn start
+code .
+yarn start
