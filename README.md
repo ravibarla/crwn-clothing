@@ -72,7 +72,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 # Description :
 
-I build  the web app by following React course of zero-to-mastery  From Udemy 
+Its an online Shopping website titled "CRWN CLOTHING"
+
+##Reference :
+
+ zero-to-mastery  From Udemy 
 
 ### Live-Project-Link:
 click here to see the live-project in browser : [https://crwn-live-15.herokuapp.com/](https://crwn-live-15.herokuapp.com/)
